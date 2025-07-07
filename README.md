@@ -3,7 +3,7 @@
 🎓 I'm a 2nd-year Software Engineering student at UIT – VNUHCM.  
 🚀 I love building full-stack web applications and learning new technologies.  
 📫 Reach me at: caoquang284@gmail.com  
-🌱 I'm learning a new framework  
+🌱 I'm learning new frameworks  
 
 ## 🛠️ Skills
 <p align="left">
