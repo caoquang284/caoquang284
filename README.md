@@ -31,3 +31,8 @@
 </p>
 
 ---
+
+## 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caoquang284&show_icons=true&theme=dark" alt="Cao Quang GitHub stats" />
+</p>
