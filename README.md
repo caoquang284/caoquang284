@@ -27,7 +27,7 @@
 ## 🌐 Socials
 <p align="left">
   <a href="https://facebook.com/caoquang284" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://github.com/caoquang284" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Facebook" width="40" height="40"/></a>
 </p>
 
 ---
