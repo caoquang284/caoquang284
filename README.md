@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Cao Quang!
 
-🎓 I'm a 3rd-year Software Engineering student at UIT – VNUHCM.  
+🎓 I'm a 3rd-year Software Engineering student at UIT – VNUHCM || Full-stack Developer Intern at [XPERC](https://xperc.com)
+
 🚀 I love building full-stack web applications and learning new technologies.  
 📫 Reach me at: caoquang284@gmail.com  
 🌱 I'm learning new frameworks  
