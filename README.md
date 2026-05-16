@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cao Quang!
 
-🎓 I'm a 3rd-year Software Engineering student at UIT – VNUHCM || Front-end Developer at [XPERC](https://xperc.com)
+🎓 I'm a 3rd-year Software Engineering student at UIT – VNUHCM || Game Designer at [VNG]([https://xperc.com](https://vng.com.vn/))
 
 🚀 I love building full-stack web applications and learning new technologies.  
 📫 Reach me at: caoquang284@gmail.com  
@@ -20,7 +20,6 @@
   <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/></a>
   <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
