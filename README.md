@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cao Quang!
 
-🎓 I'm a 3rd-year Software Engineering student at UIT – VNUHCM || Game Designer at [VNG]([https://xperc.com](https://vng.com.vn/))
+🎓 I'm a 3rd-year Software Engineering student at UIT – VNUHCM || Game Designer at [VNG]([https://vng.com.vn])
 
 🚀 I love building full-stack web applications and learning new technologies.  
 📫 Reach me at: caoquang284@gmail.com  
